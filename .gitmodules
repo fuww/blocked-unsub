@@ -1,0 +1,3 @@
+[submodule ".submodules/meteor"]
+  path = .submodules/meteor
+  url = ../meteor.git
